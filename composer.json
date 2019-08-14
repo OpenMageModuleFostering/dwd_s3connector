@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "Academic-Free-License-(AFL-3.0)",
     "homepage": "",
-    "description": "DwDeveloper- S3 Connector allows you to import a full S3 bucket to a specify Magento folder.",
+    "description": "Import an Amazon AWS S3 bucket to a Magento folder.",
     "authors": [
     {
         "name": "Damian A. Pastorini",
