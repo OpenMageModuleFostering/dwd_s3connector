@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--
+/**
+ *
+ * DwD-S3connector - Magento Extension
+ *
+ * @copyright Copyright (c) 2014 DwDesigner Inc. (http://www.dwdeveloper.com/)
+ * @author Damian A. Pastorini - damian.pastorini@dwdeveloper.com
+ *
+ */
+-->
+<config>
+    <modules>
+        <DwD_S3connector>
+            <active>true</active>
+            <codePool>community</codePool>
+        </DwD_S3connector>
+    </modules>
+</config>

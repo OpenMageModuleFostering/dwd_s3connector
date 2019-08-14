@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/DwD_S3connector",
+    "type": "magento-module",
+    "license": "Academic-Free-License-(AFL-3.0)",
+    "homepage": "",
+    "description": "DwDeveloper- S3 Connector allows you to import a full S3 bucket to a specify Magento folder.",
+    "authors": [
+    {
+        "name": "Damian A. Pastorini",
+        "email": "damian.pastorini@dwdeveloper.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
