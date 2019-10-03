@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/DwD_S3connector",
+    "name": "OpenMageModuleFostering\/DwD_S3connector",
     "type": "magento-module",
     "license": "Academic-Free-License-(AFL-3.0)",
     "homepage": "",
     "description": "Import an Amazon AWS S3 bucket to a Magento folder.",
     "authors": [
-    {
-        "name": "Damian A. Pastorini",
-        "email": "damian.pastorini@dwdeveloper.com"
-    }
-],
+        {
+            "name": "Damian A. Pastorini",
+            "email": "damian.pastorini@dwdeveloper.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
