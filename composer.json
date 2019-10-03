@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/DwD_S3connector",
+    "name": "openmage-module-fostering\/dwd_s3connector",
     "type": "magento-module",
     "license": "Academic-Free-License-(AFL-3.0)",
     "homepage": "",
